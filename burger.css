@@ -1,0 +1,235 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+.terms-paragraph {
+    color: #585959;
+    margin-left: 15px;
+    margin-top: 15px;
+}
+
+#follow-icon1 {
+    color: #d0b200;
+    height: 30px;
+    font-size: 30px;
+}
+
+#follow-icon2 {
+    color: #d0b200;
+    height: 30px;
+    font-size: 30px;
+}
+
+#follow-icon3 {
+    color: #d0b200;
+    height: 30px;
+    font-size: 30px;
+}
+
+.icon-bg {
+    background-color: #faf7e8;
+    height: 60px;
+    width: 60px;
+    margin-left: 10px;
+    padding-left: 15px;
+    padding-top: 15px;
+    border-radius: 30px;
+}
+
+.thanking-card-gift-voucher {
+    color: #d0b200;
+    font-weight: 800;
+}
+
+.thanking-button {
+    height: 40px;
+    width: 140px;
+    background-color: #d0b200;
+    color: white;
+    border-width: 0;
+    border-radius: 10px;
+}
+
+.thanking-paragraph {
+    font-weight: 700;
+    color: #5a7184;
+}
+
+.thanking-heading {
+    font-size: 27px;
+    font-weight: 700;
+    color: #183b56;
+}
+
+.thanking-session {
+    background-image: radial-gradient(#fff8db, #fae38c);
+}
+
+.delivery-icon-card {
+
+    width: 100%;
+    padding: 5px;
+    border-radius: 15px;
+    margin-top: 10px;
+}
+
+.delivery-paragraph {
+    font-size: 7px;
+}
+
+.delivery-heading {
+    font-size: 7px;
+    font-weight: 900;
+    margin-top: 3px;
+}
+
+.belivery-icon {
+    color: orange;
+    width: 100%;
+
+}
+
+.delivery-button {
+    font-family: Serif;
+    font-weight: 600;
+    color: white;
+    background-color: orange;
+    height: 35px;
+    width: 150px;
+    font-size: 20px;
+    border-color: orange;
+    border-radius: 15px;
+}
+
+.popular-session-card-heading1 {
+    font-weight: 800;
+    font-family: lobster;
+    font-size: 20px;
+    padding-left: 8px;
+}
+
+.popular-session-card-heading {
+    font-style: italic;
+    font-size: 20px;
+    padding-left: 8px;
+}
+
+.popular-session-card-image {
+    width: 100%;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.popular-session-card {
+    background-color: #ffc61a;
+    border-radius: 20px;
+    padding-bottom: 5px;
+    margin-bottom: 50px;
+}
+
+.popular-session-heading {
+    font-family: caveat;
+    font-size: 40px;
+    font-weight: 800;
+    text-align: center;
+}
+
+.popular-session {
+    background-color: white;
+    margin-top: 4px;
+}
+
+.sr-card-paragraph {
+    font-size: 13px;
+    color: #6d6e69;
+    font-weight: 600;
+}
+
+.sr-card-heading {
+    font-family: Verdana;
+    font-weight: 700;
+    font-size: 20px;
+    margin-top: 40px;
+}
+
+.sr-heading {
+    color: black;
+    font-size: 30px;
+    font-weight: 100;
+    font-family: lobster;
+    text-align: center;
+}
+
+.home-container {
+    padding-top: 100px;
+}
+
+.home-button {
+    font-family: Serif;
+    font-weight: 600;
+    background-color: #f5da42;
+    height: 35px;
+    width: 100px;
+    font-size: 20px;
+    border-color: #f5da42;
+    border-radius: 15px;
+}
+
+.home-paragraph {
+    color: #808000;
+    margin-top: 15px;
+
+}
+
+.bg-container {
+    background-color: #fffffc;
+}
+
+.home-heading {
+    font-family: monospace;
+    font-weight: 800;
+
+}
+
+.navbar-image {
+    height: 60px;
+    background-color: #f5f4f2;
+}
+
+#navbar1 {
+    font-family: caveat;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+#navbar2 {
+    font-family: caveat;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+#navbar3 {
+    font-family: caveat;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+#navbar4 {
+    font-family: caveat;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+#navbar5 {
+    font-family: caveat;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.navbar-heading {
+    color: black;
+    font-size: 30px;
+    font-weight: 100;
+    font-family: lobster;
+    padding-top: 10px;
+    margin-left: 5px;
+}
